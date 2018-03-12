@@ -47,7 +47,7 @@ E.g. if you use gradle add the following to your build.gradle:
 ```groovy
 repositories {
     ...
-    MavenLocal()
+    mavenLocal()
 }
 
 dependencies {
